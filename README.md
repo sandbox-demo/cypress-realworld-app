@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- We use two SVGs here so that this displays correctly
+  <!-- We use two SVGs here so that this displays correctly yes
     on Github. This might not look right in other Markdown previewers. -->
   <img alt="Cypress Real World App Logo" src="./src/svgs/rwa-logo-light.svg#gh-dark-mode-only" />
   <img alt="Cypress Real World App Logo" src="./src/svgs/rwa-logo.svg#gh-light-mode-only" />
